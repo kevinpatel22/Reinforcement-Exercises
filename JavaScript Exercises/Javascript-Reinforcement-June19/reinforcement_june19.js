@@ -1,13 +1,13 @@
 function longestConsecutive(array, k) {
     if (array.length === 0 || k < 0 || k > array.length) {
-        return ""
+        return "";
     }
     else {
         let word = '';
         let string = [];
         for (n = 0; n < array.length; n++) {
             if (k + n > array.length) {
-                break
+                break;
             }
             else {
                 for (i = n; i < n+k; i++) {

@@ -1,7 +1,9 @@
-JavaScript Reinforcement: June 14
-Prerequisites
+### JavaScript Reinforcement: June 14
+
+## Prerequisites
 programming fundamentals
-Exercise
+
+## Exercise
 Copy the following array into a JS file:
 
 ["Totam", "ut", "odit","quis", "Maiores", "unde", "EX", "EST", "corporis"]
